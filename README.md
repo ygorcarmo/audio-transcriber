@@ -7,7 +7,7 @@ This project is an audio transcriber that converts speech from audio files into 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/audio-transcriber.git
+   git clone https://github.com/ygorcarmo/audio-transcriber.git
    ```
 
 2. Navigate to the project directory:
