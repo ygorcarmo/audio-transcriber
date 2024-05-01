@@ -1,0 +1,25 @@
+# environment variables 
+.env
+
+# npm cache directory
+.npm
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# build
+/build
+/dist
+
+# misc
+.DS_Store
+.eslintcache
+*.swp
+*.log
+
+# editor directories and files
+.idea
+.vscode
